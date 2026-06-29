@@ -60,13 +60,15 @@ Solitude has become a way for me to explore both myself and the world.
 
 <!-- 读者读完我的文章后，我希望他们感受到什么？带走什么？ -->
 <!-- After reading my articles, what do I hope readers feel? What do I hope they carry with them? -->
-希望害怕孤独的人能够开始享受独处的乐趣，希望能给大家带来一些新的视角和力量，希望读者能带走一些乐观有趣的生活方式。勇气很重要，希望我的勇气能够传递出去！
+希望害怕孤独的人能够开始享受独处的乐趣，希望能给大家带来一些新的视角和力量，希望读者能带走一些乐观有趣的生活方式。告诉有相同处境的人们，他们并不孤单！勇气很重要，希望我的勇气能够传递出去！
 
-I hope people who are afraid of being alone can slowly discover that solitude can be joyful.
+I hope people who are afraid of being alone can slowly discover the joy of solitude.
 
-I hope my writing offers a different perspective, a little encouragement, and reminds people that there are many beautiful ways to live a life.
+I hope my writing offers a different perspective, a little strength, and inspires people to find their own meaningful and joyful ways of living.
 
-Most of all, I hope my courage can be passed on to someone else. I hope it encourages people to try something on their own, to trust themselves a little more, and to discover a version of themselves they haven't met yet.
+Most of all, I want people who are going through something similar to know that they are not alone.
+
+Courage matters. I hope that by sharing my own experiences, I can pass a little of that courage on to someone else.
 
 ---
 
