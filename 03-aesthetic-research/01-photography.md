@@ -45,26 +45,29 @@
 
 | # | 图片 / Image | 标签 / Tags |
 |---|-------------|------------|
-| 01 | | |
-| 02 | | |
-| 03 | | |
-| 04 | | |
-| 05 | | |
-| 06 | | |
-| 07 | | |
-| 08 | | |
-| 09 | | |
-| 10 | | |
-| 11 | | |
-| 12 | | |
-| 13 | | |
-| 14 | | |
-| 15 | | |
-| 16 | | |
-| 17 | | |
-| 18 | | |
-| 19 | | |
-| 20 | | |
+| 01 | ![](../assets/03-photography/bird-eat-fruites.png) | backlit · close-up · joyful |
+| 02 | ![](../assets/03-photography/birds-catch-fish.png) | backlit · golden · high-contrast |
+| 03 | ![](../assets/03-photography/birds-dawn-mountain.png) | golden · wide · warm |
+| 04 | ![](../assets/03-photography/birds-woods.png) | golden · layered · warm |
+| 05 | ![](../assets/03-photography/bird-take-bath.png) | diffuse · close-up · joyful |
+| 06 | ![](../assets/03-photography/boat-colorful-waves.png) | high-contrast · negative-space · quiet |
+| 07 | ![](../assets/03-photography/bridges-warm-light.png) | golden · layered · contemplative |
+| 08 | ![](../assets/03-photography/cat-warm-light.png) | golden · backlit · tender |
+| 09 | ![](../assets/03-photography/chinese-acient-palace.png) | golden · geometric · negative-space |
+| 10 | ![](../assets/03-photography/chinese-bridge-light.png) | diffuse · geometric · quiet |
+| 11 | ![](../assets/03-photography/chinese-building-in-night.png) | artificial · wide · high-contrast |
+| 12 | ![](../assets/03-photography/chinese-garden-look-up.png) | geometric · centered · contemplative |
+| 13 | ![](../assets/03-photography/chinese-garden-view-red-flowers-roof.png) | backlit · geometric · nature |
+| 14 | ![](../assets/03-photography/chinese-garden-window.png) | diffuse · geometric · tender |
+| 15 | ![](../assets/03-photography/ducks-bridge.png) | golden · backlit · quiet |
+| 16 | ![](../assets/03-photography/fish-flowers.png) | high-contrast · nature · contemplative |
+| 17 | ![](../assets/03-photography/happy-girl-old-building.png) | muted · people · joyful |
+| 18 | ![](../assets/03-photography/like-movie-flowers.png) | golden · filmic · nature |
+| 19 | ![](../assets/03-photography/lotus-flower.png) | diffuse · close-up · tender |
+| 20 | ![](../assets/03-photography/purple-window-cat.png) | backlit · melancholic · contemplative |
+| 21 | ![](../assets/03-photography/red-flower-in-wall.png) | diffuse · close-up · contemplative |
+| 22 | ![](../assets/03-photography/wabi-sabi-vase.png) | muted · still-life · minimal |
+| 23 | ![](../assets/03-photography/window-shadow.png) | golden · abstract · contemplative |
 
 ---
 
@@ -75,31 +78,31 @@
 
 ```
 光线 / Light
-  golden ___  diffuse ___  backlit ___  indoor-natural ___  overcast ___  artificial ___
+  golden  9    diffuse  5    backlit  6    indoor-natural  0    overcast  0    artificial  1
 
 色调 / Tone
-  warm ___  cool ___  neutral ___  muted ___  high-contrast ___  faded ___
+  warm  2    cool  0    neutral  0    muted  2    high-contrast  4    faded  0
 
 构图 / Composition
-  negative-space ___  centered ___  layered ___  close-up ___  wide ___  geometric ___
+  negative-space  2    centered  1    layered  2    close-up  4    wide  2    geometric  5
 
 主体 / Subject
-  people ___  nature ___  architecture ___  still-life ___  street ___  abstract ___  text ___
+  people  1    nature  3    architecture  0    still-life  1    street  0    abstract  1    text  0
 
 情绪 / Mood
-  quiet ___  melancholic ___  contemplative ___  joyful ___  detached ___  tender ___
+  quiet  3    melancholic  1    contemplative  6    joyful  3    detached  0    tender  3
 
 质感 / Texture
-  filmic ___  grainy ___  soft ___  sharp ___  minimal ___  rough ___
+  filmic  1    grainy  0    soft  0    sharp  0    minimal  1    rough  0
 ```
 
 出现频率最高的 5 个标签 / Top 5 tags:
 
-1. 
-2. 
-3. 
-4. 
-5. 
+1. golden — 9
+2. contemplative — 6
+3. backlit — 6
+4. geometric — 5
+5. diffuse — 5
 
 ---
 
